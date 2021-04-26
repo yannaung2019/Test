@@ -1,21 +1,25 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <rss version="2.0" xml:base="http://myawady.net.mm/header" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>http://myawady.net.mm/header</link>
-    <description></description>
-    <language>en</language>
-    <lastBuildDate>Mon, 08 Jul 2019 18:52:47 +0000</lastBuildDate>
-     <atom:link href="http://myawady.net.mm/heading/rss.xml" rel="self" type="application/rss+xml" />	
-	  <sy:updatePeriod>
+<title>MYANMAR 2020</title>
+	<atom:link href="https://laurainmyanmar.wordpress.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://laurainmyanmar.wordpress.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 26 Apr 2021 15:08:44 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-    <image>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='laurainmyanmar.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
 		<url>https://s0.wp.com/i/buttonw-com.png</url>
-		<title>Burma &#038; Myanmar philately</title>
-		<link>https://burmamyanmarphilately.wordpress.com</link>
+		<title>MYANMAR 2020</title>
+		<link>https://laurainmyanmar.wordpress.com</link>
 	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="https://laurainmyanmar.wordpress.com/osd.xml" title="MYANMAR 2020" />
+	<atom:link rel='hub' href='https://laurainmyanmar.wordpress.com/?pushpress=hub'/>
  
   </channel>
 </rss>
