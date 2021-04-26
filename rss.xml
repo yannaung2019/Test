@@ -7,6 +7,10 @@
     <language>en</language>
     <lastBuildDate>Mon, 08 Jul 2019 18:52:47 +0000</lastBuildDate>
      <atom:link href="http://myawady.net.mm/heading/rss.xml" rel="self" type="application/rss+xml" />	
+	  <sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
     <image>
 		<url>https://s0.wp.com/i/buttonw-com.png</url>
 		<title>Burma &#038; Myanmar philately</title>
